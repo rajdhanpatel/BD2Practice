@@ -1,4 +1,4 @@
-//BD1 - Assignments
+//BD1 - Assignment
 const express = require('express');
 const { resolve } = require('path');
 
@@ -9,7 +9,7 @@ let person = {
   firstName: 'Rajdhan',
   lastName: 'Patel',
   gender: 'male',
-  age: 30,
+  age: 25,
   isMember: true,
 };
 
